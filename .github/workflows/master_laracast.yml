@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'laracast'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3289F490D48240608148006E4CA792BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5CF9AB2505D4964BEF9B7CBBC7F4706 }}
           package: .
